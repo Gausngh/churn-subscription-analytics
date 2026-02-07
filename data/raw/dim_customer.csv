@@ -1,1 +1,200 @@
 customer_id,customer_name,signup_date,region,city,age_band,customer_segment,acquisition_channel,is_high_value
+1,Customer 1,15-01-2024,South,Hyderabad,25-34,Individual,Organic,0
+2,Customer 2,03-02-2024,South,Bengaluru,25-34,Individual,Paid Ads,0
+3,Customer 3,20-03-2024,West,Mumbai,18-24,Individual,Referral,0
+4,Customer 4,05-04-2024,North,Delhi,35-44,Individual,Organic,1
+5,Customer 5,11-05-2024,South,Chennai,25-34,SMB,Outbound,1
+6,Customer 6,01-06-2024,West,Pune,25-34,Individual,Organic,0
+7,Customer 7,18-06-2024,East,Kolkata,35-44,Individual,Paid Ads,0
+8,Customer 8,02-07-2024,South,Hyderabad,18-24,Individual,Referral,0
+9,Customer 9,19-07-2024,North,Gurgaon,35-44,SMB,Outbound,1
+10,Customer 10,01-08-2024,South,Bengaluru,25-34,Individual,Organic,0
+11,Customer 11,15-01-2024,South,Chennai,18-24,Individual,Organic,0
+12,Customer 12,03-02-2024,South,Pune,35-44,Individual,Paid Ads,0
+13,Customer 13,20-03-2024,West,Kolkata,25-34,SMB,Referral,0
+14,Customer 14,05-04-2024,North,Hyderabad,18-24,Individual,Organic,1
+15,Customer 15,11-05-2024,South,Gurgaon,35-44,Individual,Outbound,1
+16,Customer 16,01-06-2024,West,Bengaluru,25-34,Individual,Organic,0
+17,Customer 17,18-06-2024,East,Chennai,18-24,SMB,Paid Ads,0
+18,Customer 18,02-07-2024,South,Pune,35-44,Individual,Referral,0
+19,Customer 19,19-07-2024,North,Kolkata,25-34,Individual,Outbound,1
+20,Customer 20,01-08-2024,South,Hyderabad,18-24,Individual,Organic,0
+21,Customer 21,15-01-2024,South,Gurgaon,35-44,SMB,Organic,0
+22,Customer 22,03-02-2024,South,Bengaluru,25-34,Individual,Paid Ads,0
+23,Customer 23,20-03-2024,West,Chennai,18-24,Individual,Referral,0
+24,Customer 24,05-04-2024,North,Pune,35-44,Individual,Organic,1
+25,Customer 25,11-05-2024,South,Kolkata,25-34,SMB,Outbound,1
+26,Customer 26,01-06-2024,West,Hyderabad,18-24,Individual,Organic,0
+27,Customer 27,18-06-2024,East,Gurgaon,35-44,Individual,Paid Ads,0
+28,Customer 28,02-07-2024,South,Bengaluru,25-34,Individual,Referral,0
+29,Customer 29,19-07-2024,North,Chennai,18-24,SMB,Outbound,1
+30,Customer 30,01-08-2024,South,Pune,35-44,Individual,Organic,0
+31,Customer 31,15-01-2024,South,Kolkata,25-34,Individual,Organic,0
+32,Customer 32,03-02-2024,South,Hyderabad,18-24,Individual,Paid Ads,0
+33,Customer 33,20-03-2024,West,Gurgaon,35-44,SMB,Referral,0
+34,Customer 34,05-04-2024,North,Bengaluru,25-34,Individual,Organic,1
+35,Customer 35,11-05-2024,South,Chennai,18-24,Individual,Outbound,1
+36,Customer 36,01-06-2024,West,Pune,35-44,Individual,Organic,0
+37,Customer 37,18-06-2024,East,Kolkata,25-34,SMB,Paid Ads,0
+38,Customer 38,02-07-2024,South,Hyderabad,18-24,Individual,Referral,0
+39,Customer 39,19-07-2024,North,Gurgaon,35-44,Individual,Outbound,1
+40,Customer 40,01-08-2024,South,Bengaluru,25-34,Individual,Organic,0
+41,Customer 41,15-01-2024,South,Chennai,18-24,SMB,Organic,0
+42,Customer 42,03-02-2024,South,Pune,35-44,Individual,Paid Ads,0
+43,Customer 43,20-03-2024,West,Kolkata,25-34,Individual,Referral,0
+44,Customer 44,05-04-2024,North,Hyderabad,18-24,Individual,Organic,1
+45,Customer 45,11-05-2024,South,Gurgaon,35-44,SMB,Outbound,1
+46,Customer 46,01-06-2024,West,Bengaluru,25-34,Individual,Organic,0
+47,Customer 47,18-06-2024,East,Chennai,18-24,Individual,Paid Ads,0
+48,Customer 48,02-07-2024,South,Pune,35-44,Individual,Referral,0
+49,Customer 49,19-07-2024,North,Kolkata,25-34,SMB,Outbound,1
+50,Customer 50,01-08-2024,South,Hyderabad,18-24,Individual,Organic,0
+51,Customer 51,15-01-2024,South,Gurgaon,35-44,Individual,Organic,0
+52,Customer 52,03-02-2024,South,Bengaluru,25-34,Individual,Paid Ads,0
+53,Customer 53,20-03-2024,West,Chennai,18-24,SMB,Referral,0
+54,Customer 54,05-04-2024,North,Pune,35-44,Individual,Organic,1
+55,Customer 55,11-05-2024,South,Kolkata,25-34,Individual,Outbound,1
+56,Customer 56,01-06-2024,West,Hyderabad,18-24,Individual,Organic,0
+57,Customer 57,18-06-2024,East,Gurgaon,35-44,SMB,Paid Ads,0
+58,Customer 58,02-07-2024,South,Bengaluru,25-34,Individual,Referral,0
+59,Customer 59,19-07-2024,North,Chennai,18-24,Individual,Outbound,1
+60,Customer 60,01-08-2024,South,Pune,35-44,Individual,Organic,0
+61,Customer 61,15-01-2024,South,Kolkata,25-34,SMB,Organic,0
+62,Customer 62,03-02-2024,South,Hyderabad,18-24,Individual,Paid Ads,0
+63,Customer 63,20-03-2024,West,Gurgaon,35-44,Individual,Referral,0
+64,Customer 64,05-04-2024,North,Bengaluru,25-34,Individual,Organic,1
+65,Customer 65,11-05-2024,South,Chennai,18-24,SMB,Outbound,1
+66,Customer 66,01-06-2024,West,Pune,35-44,Individual,Organic,0
+67,Customer 67,18-06-2024,East,Kolkata,25-34,Individual,Paid Ads,0
+68,Customer 68,02-07-2024,South,Hyderabad,18-24,Individual,Referral,0
+69,Customer 69,19-07-2024,North,Gurgaon,35-44,SMB,Outbound,1
+70,Customer 70,01-08-2024,South,Bengaluru,25-34,Individual,Organic,0
+71,Customer 71,15-01-2024,South,Chennai,18-24,Individual,Organic,0
+72,Customer 72,03-02-2024,South,Pune,35-44,Individual,Paid Ads,0
+73,Customer 73,20-03-2024,West,Kolkata,25-34,SMB,Referral,0
+74,Customer 74,05-04-2024,North,Hyderabad,18-24,Individual,Organic,1
+75,Customer 75,11-05-2024,South,Gurgaon,35-44,Individual,Outbound,1
+76,Customer 76,01-06-2024,West,Bengaluru,25-34,Individual,Organic,0
+77,Customer 77,18-06-2024,East,Chennai,18-24,SMB,Paid Ads,0
+78,Customer 78,02-07-2024,South,Pune,35-44,Individual,Referral,0
+79,Customer 79,19-07-2024,North,Kolkata,25-34,Individual,Outbound,1
+80,Customer 80,01-08-2024,South,Hyderabad,18-24,Individual,Organic,0
+81,Customer 81,15-01-2024,South,Gurgaon,35-44,SMB,Organic,0
+82,Customer 82,03-02-2024,South,Bengaluru,25-34,Individual,Paid Ads,0
+83,Customer 83,20-03-2024,West,Chennai,18-24,Individual,Referral,0
+84,Customer 84,05-04-2024,North,Pune,35-44,Individual,Organic,1
+85,Customer 85,11-05-2024,South,Kolkata,25-34,SMB,Outbound,1
+86,Customer 86,01-06-2024,West,Hyderabad,18-24,Individual,Organic,0
+87,Customer 87,18-06-2024,East,Gurgaon,35-44,Individual,Paid Ads,0
+88,Customer 88,02-07-2024,South,Bengaluru,25-34,Individual,Referral,0
+89,Customer 89,19-07-2024,North,Chennai,18-24,SMB,Outbound,1
+90,Customer 90,01-08-2024,South,Pune,35-44,Individual,Organic,0
+91,Customer 91,15-01-2024,South,Kolkata,25-34,Individual,Organic,0
+92,Customer 92,03-02-2024,South,Hyderabad,18-24,Individual,Paid Ads,0
+93,Customer 93,20-03-2024,West,Gurgaon,35-44,SMB,Referral,0
+94,Customer 94,05-04-2024,North,Bengaluru,25-34,Individual,Organic,1
+95,Customer 95,11-05-2024,South,Chennai,18-24,Individual,Outbound,1
+96,Customer 96,01-06-2024,West,Pune,35-44,Individual,Organic,0
+97,Customer 97,18-06-2024,East,Kolkata,25-34,SMB,Paid Ads,0
+98,Customer 98,02-07-2024,South,Hyderabad,18-24,Individual,Referral,0
+99,Customer 99,19-07-2024,North,Gurgaon,35-44,Individual,Outbound,1
+100,Customer 100,01-08-2024,South,Bengaluru,25-34,Individual,Organic,0
+101,Customer 101,15-01-2024,South,Chennai,18-24,SMB,Organic,0
+102,Customer 102,03-02-2024,South,Pune,35-44,Individual,Paid Ads,0
+103,Customer 103,20-03-2024,West,Kolkata,25-34,Individual,Referral,0
+104,Customer 104,05-04-2024,North,Hyderabad,18-24,Individual,Organic,1
+105,Customer 105,11-05-2024,South,Gurgaon,35-44,SMB,Outbound,1
+106,Customer 106,01-06-2024,West,Bengaluru,25-34,Individual,Organic,0
+107,Customer 107,18-06-2024,East,Chennai,18-24,Individual,Paid Ads,0
+108,Customer 108,02-07-2024,South,Pune,35-44,Individual,Referral,0
+109,Customer 109,19-07-2024,North,Kolkata,25-34,SMB,Outbound,1
+110,Customer 110,01-08-2024,South,Hyderabad,18-24,Individual,Organic,0
+111,Customer 111,15-01-2024,South,Gurgaon,35-44,Individual,Organic,0
+112,Customer 112,03-02-2024,South,Bengaluru,25-34,Individual,Paid Ads,0
+113,Customer 113,20-03-2024,West,Chennai,18-24,SMB,Referral,0
+114,Customer 114,05-04-2024,North,Pune,35-44,Individual,Organic,1
+115,Customer 115,11-05-2024,South,Kolkata,25-34,Individual,Outbound,1
+116,Customer 116,01-06-2024,West,Hyderabad,18-24,Individual,Organic,0
+117,Customer 117,18-06-2024,East,Gurgaon,35-44,SMB,Paid Ads,0
+118,Customer 118,02-07-2024,South,Bengaluru,25-34,Individual,Referral,0
+119,Customer 119,19-07-2024,North,Chennai,18-24,Individual,Outbound,1
+120,Customer 120,01-08-2024,South,Pune,35-44,Individual,Organic,0
+121,Customer 121,15-01-2024,South,Kolkata,25-34,SMB,Organic,0
+122,Customer 122,03-02-2024,South,Hyderabad,18-24,Individual,Paid Ads,0
+123,Customer 123,20-03-2024,West,Gurgaon,35-44,Individual,Referral,0
+124,Customer 124,05-04-2024,North,Bengaluru,25-34,Individual,Organic,1
+125,Customer 125,11-05-2024,South,Chennai,18-24,SMB,Outbound,1
+126,Customer 126,01-06-2024,West,Pune,35-44,Individual,Organic,0
+127,Customer 127,18-06-2024,East,Kolkata,25-34,Individual,Paid Ads,0
+128,Customer 128,02-07-2024,South,Hyderabad,18-24,Individual,Referral,0
+129,Customer 129,19-07-2024,North,Gurgaon,35-44,SMB,Outbound,1
+130,Customer 130,01-08-2024,South,Bengaluru,25-34,Individual,Organic,0
+131,Customer 131,15-01-2024,South,Chennai,18-24,Individual,Organic,0
+132,Customer 132,03-02-2024,South,Pune,35-44,Individual,Paid Ads,0
+133,Customer 133,20-03-2024,West,Kolkata,25-34,SMB,Referral,0
+134,Customer 134,05-04-2024,North,Hyderabad,18-24,Individual,Organic,1
+135,Customer 135,11-05-2024,South,Gurgaon,35-44,Individual,Outbound,1
+136,Customer 136,01-06-2024,West,Bengaluru,25-34,Individual,Organic,0
+137,Customer 137,18-06-2024,East,Chennai,18-24,SMB,Paid Ads,0
+138,Customer 138,02-07-2024,South,Pune,35-44,Individual,Referral,0
+139,Customer 139,19-07-2024,North,Kolkata,25-34,Individual,Outbound,1
+140,Customer 140,01-08-2024,South,Hyderabad,18-24,Individual,Organic,0
+141,Customer 141,15-01-2024,South,Gurgaon,35-44,SMB,Organic,0
+142,Customer 142,03-02-2024,South,Bengaluru,25-34,Individual,Paid Ads,0
+143,Customer 143,20-03-2024,West,Chennai,18-24,Individual,Referral,0
+144,Customer 144,05-04-2024,North,Pune,35-44,Individual,Organic,1
+145,Customer 145,11-05-2024,South,Kolkata,25-34,SMB,Outbound,1
+146,Customer 146,01-06-2024,West,Hyderabad,18-24,Individual,Organic,0
+147,Customer 147,18-06-2024,East,Gurgaon,35-44,Individual,Paid Ads,0
+148,Customer 148,02-07-2024,South,Bengaluru,25-34,Individual,Referral,0
+149,Customer 149,19-07-2024,North,Chennai,18-24,SMB,Outbound,1
+150,Customer 150,01-08-2024,South,Pune,35-44,Individual,Organic,0
+151,Customer 151,15-01-2024,South,Kolkata,25-34,Individual,Organic,0
+152,Customer 152,03-02-2024,South,Hyderabad,18-24,Individual,Paid Ads,0
+153,Customer 153,20-03-2024,West,Gurgaon,35-44,SMB,Referral,0
+154,Customer 154,05-04-2024,North,Bengaluru,25-34,Individual,Organic,1
+155,Customer 155,11-05-2024,South,Chennai,18-24,Individual,Outbound,1
+156,Customer 156,01-06-2024,West,Pune,35-44,Individual,Organic,0
+157,Customer 157,18-06-2024,East,Kolkata,25-34,SMB,Paid Ads,0
+158,Customer 158,02-07-2024,South,Hyderabad,18-24,Individual,Referral,0
+159,Customer 159,19-07-2024,North,Gurgaon,35-44,Individual,Outbound,1
+160,Customer 160,01-08-2024,South,Bengaluru,25-34,Individual,Organic,0
+161,Customer 161,15-01-2024,South,Chennai,18-24,SMB,Organic,0
+162,Customer 162,03-02-2024,South,Pune,35-44,Individual,Paid Ads,0
+163,Customer 163,20-03-2024,West,Kolkata,25-34,Individual,Referral,0
+164,Customer 164,05-04-2024,North,Hyderabad,18-24,Individual,Organic,1
+165,Customer 165,11-05-2024,South,Gurgaon,35-44,SMB,Outbound,1
+166,Customer 166,01-06-2024,West,Bengaluru,25-34,Individual,Organic,0
+167,Customer 167,18-06-2024,East,Chennai,18-24,Individual,Paid Ads,0
+168,Customer 168,02-07-2024,South,Pune,35-44,Individual,Referral,0
+169,Customer 169,19-07-2024,North,Kolkata,25-34,SMB,Outbound,1
+170,Customer 170,01-08-2024,South,Hyderabad,18-24,Individual,Organic,0
+171,Customer 171,15-01-2024,South,Gurgaon,35-44,Individual,Organic,0
+172,Customer 172,03-02-2024,South,Bengaluru,25-34,Individual,Paid Ads,0
+173,Customer 173,20-03-2024,West,Chennai,18-24,SMB,Referral,0
+174,Customer 174,05-04-2024,North,Pune,35-44,Individual,Organic,1
+175,Customer 175,11-05-2024,South,Kolkata,25-34,Individual,Outbound,1
+176,Customer 176,01-06-2024,West,Hyderabad,18-24,Individual,Organic,0
+177,Customer 177,18-06-2024,East,Gurgaon,35-44,SMB,Paid Ads,0
+178,Customer 178,02-07-2024,South,Bengaluru,25-34,Individual,Referral,0
+179,Customer 179,19-07-2024,North,Chennai,18-24,Individual,Outbound,1
+180,Customer 180,01-08-2024,South,Pune,35-44,Individual,Organic,0
+181,Customer 181,15-01-2024,South,Kolkata,25-34,SMB,Organic,0
+182,Customer 182,03-02-2024,South,Hyderabad,18-24,Individual,Paid Ads,0
+183,Customer 183,20-03-2024,West,Gurgaon,35-44,Individual,Referral,0
+184,Customer 184,05-04-2024,North,Bengaluru,25-34,Individual,Organic,1
+185,Customer 185,11-05-2024,South,Chennai,18-24,SMB,Outbound,1
+186,Customer 186,01-06-2024,West,Pune,35-44,Individual,Organic,0
+187,Customer 187,18-06-2024,East,Kolkata,25-34,Individual,Paid Ads,0
+188,Customer 188,02-07-2024,South,Hyderabad,18-24,Individual,Referral,0
+189,Customer 189,19-07-2024,North,Gurgaon,35-44,SMB,Outbound,1
+190,Customer 190,01-08-2024,South,Bengaluru,25-34,Individual,Organic,0
+191,Customer 191,15-01-2024,South,Chennai,18-24,Individual,Organic,0
+192,Customer 192,03-02-2024,South,Pune,35-44,Individual,Paid Ads,0
+193,Customer 193,20-03-2024,West,Kolkata,25-34,SMB,Referral,0
+194,Customer 194,05-04-2024,North,Hyderabad,18-24,Individual,Organic,1
+195,Customer 195,11-05-2024,South,Gurgaon,35-44,Individual,Outbound,1
+196,Customer 196,01-06-2024,West,Bengaluru,25-34,Individual,Organic,0
+197,Customer 197,18-06-2024,East,Chennai,18-24,SMB,Paid Ads,0
+198,Customer 198,02-07-2024,South,Pune,35-44,Individual,Referral,0
+199,Customer 199,19-07-2024,North,Kolkata,25-34,Individual,Outbound,1
